@@ -4,6 +4,7 @@ import React from 'react';
 // Navigation
 import {createStackNavigator} from '@react-navigation/stack';
 
+// components
 import Business from '../components/Business';
 import Search from '../components/Search';
 
